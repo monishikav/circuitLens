@@ -1,0 +1,12 @@
+torch
+transformers
+transformer-lens
+numpy
+pandas
+polars
+duckdb
+streamlit
+plotly
+networkx
+scikit-learn
+pytest
